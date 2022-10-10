@@ -791,3 +791,5 @@ javax.imageio.IIOException: Not a JPEG file: starts with 0x89 0x50
 2022-10-10 17:23:29.872  WARN 8 --- [Timer-0] run.halo.app.cache.AbstractCacheStore    : Cache key: [ac5910b44b114b3db89bbeac550b276c] has been expired
 2022-10-10 17:24:29.872  WARN 8 --- [Timer-0] run.halo.app.cache.AbstractCacheStore    : Cache key: [deeec50f62e542d2ad7a169004ed2622] has been expired
 2022-10-10 17:24:29.872  WARN 8 --- [Timer-0] run.halo.app.cache.AbstractCacheStore    : Cache key: [bb923a5344a14898831ba01a1af1ed01] has been expired
+2022-10-10 18:33:29.872  WARN 8 --- [Timer-0] run.halo.app.cache.AbstractCacheStore    : Cache key: [cache_lock_login_auth] has been expired
+2022-10-10 18:33:29.873  WARN 8 --- [Timer-0] run.halo.app.cache.AbstractCacheStore    : Cache key: [cache_lock_login_precheck] has been expired
