@@ -1,3 +1,4 @@
-2022-10-13 09:51:11.276  WARN 8 --- [qtp786722925-3324] o.s.w.s.r.ResourceHttpRequestHandler     : "Path with "WEB-INF" or "META-INF": [s/34332e3134332e3130302e3631/_/META-INF/maven/com.atlassian.jira/jira-webapp-dist/pom.properties]"
-2022-10-13 12:59:29.872  WARN 8 --- [Timer-0] run.halo.app.cache.AbstractCacheStore    : Cache key: [halo.admin.access_token.1] has been expired
-2022-10-13 12:59:29.872  WARN 8 --- [Timer-0] run.halo.app.cache.AbstractCacheStore    : Cache key: [halo.admin.access.token.5968dd06229b41f890c269cec0c264c3] has been expired
+2022-10-15 11:42:18.932  WARN 8 --- [qtp786722925-3818] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2022-10-15 11:42:19.062  WARN 8 --- [qtp786722925-3757] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2022-10-15 11:42:19.341  WARN 8 --- [qtp786722925-3757] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2022-10-15 11:42:19.488  WARN 8 --- [qtp786722925-3757] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
