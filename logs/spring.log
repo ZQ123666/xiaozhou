@@ -92,3 +92,4 @@
 2022-10-19 17:09:12.767  INFO 7 --- [qtp786722925-1908] r.h.app.handler.file.LocalFileHandler    : Generated thumbnail image, and wrote the thumbnail to [/root/.halo/upload/2022/10/image-1666170552706-thumbnail.png]
 2022-10-19 17:09:12.767  INFO 7 --- [qtp786722925-1908] r.h.app.handler.file.LocalFileHandler    : Uploaded file: [image.png] to directory: [/root/.halo/upload/2022/10/image-1666170552706.png] successfully
 2022-10-19 17:10:37.697  INFO 7 --- [pool-3-thread-9] r.h.a.service.impl.BasePostServiceImpl   : Post with id: [131] is a draft and visits will not be updated
+2022-10-19 17:20:44.072  WARN 7 --- [Timer-0] run.halo.app.cache.AbstractCacheStore    : Cache key: [c314dd22a3174b22a38f448399f16704] has been expired
